@@ -1,4 +1,4 @@
-<div align="center"> 
+x`<div align="center"> 
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=ImJaeSung&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   
@@ -24,5 +24,5 @@
 #### 💻 JaeSung's log 💻
 <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=ImJaeSung&theme=default)(https://holy-jjjae.tistory.com/)
-</div><br>
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=holy-jjjae&theme=default)](https://holy-jjjae.tistory.com/)
+</div><br></div><br>
