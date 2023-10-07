@@ -20,14 +20,14 @@
  
    <br/>
    <br/>
- 
-#### :pencil2: Study log
- 
-  <br/>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://velog.io/@somm)
-</div>### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api? type=rounded&color=timeGradient&text=Welcome%20to%20Bi's%20GitHub%20👋 &animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
+## 💻 JaeSung's log 💻
+<div style="display:flex; flex-direction:row;">
+    <a href="https://li-yo.tistory.com">
+        <img src="https://img.shields.io/badge/
+        Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
+    </a>
+ 
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/
+api?name=li-yo&theme=default)](https://holy-jjjae.tistory.com/)
+</div><br>
