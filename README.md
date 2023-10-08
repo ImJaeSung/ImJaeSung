@@ -6,9 +6,9 @@
  <br/>
   
 #### Education
-- M.S in Statistics and DataScience, University of Seoul Mar.2024(expected) - 
-- B.S in Statistics, University of Seoul Mar.2018 - Feb.2024(expected)
-- B.S in Economics, University of Seoul Mar.2018 - Feb.2024(expected)
+- M.S in Statistics and DataScience, University of Seoul `Mar.2024(expected) - `
+- B.S in Statistics, University of Seoul `Mar.2018 - Feb.2024(expected)`
+- B.S in Economics, University of Seoul `Mar.2018 - Feb.2024(expected)`
 ####  :clipboard: Once I've Used 
   
  <br/>
