@@ -27,3 +27,14 @@
 
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=holy-jjjae&theme=default)](https://holy-jjjae.tistory.com/)
 </div><br></div><br>
+
+## 📞 Contact 📞
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:wotjd1410@gmail.com">
+        <img src="https://img.shields.io/badge/
+        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+    <a href="https://www.instagram.com/holy_jjjae/">
+        <img src="https://img.shields.io/badge/
+        Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+    </a>
