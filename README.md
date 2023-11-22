@@ -6,7 +6,7 @@
  <br/>
   
 ### Education
-- M.S in Statistical Data Science, University of Seoul `Mar.2024(expected) - `
+- M.S in Statistical Datascience, University of Seoul `Mar.2024(expected) - `
 - B.S in Statistics, University of Seoul `Mar.2018 - Feb.2024(expected)`
 - B.S in Economics, University of Seoul `Mar.2018 - Feb.2024(expected)`
 
