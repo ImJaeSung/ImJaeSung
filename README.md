@@ -14,8 +14,8 @@
 <br/>
 
 ### Interested in
-- Synthetic data generation
-- Variantional Autoencoder 
+- Synthetic Data Generation
+- Variational AutoEncoder
  
 ###  :clipboard: Once I've Used 
   
