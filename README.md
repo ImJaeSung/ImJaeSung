@@ -12,6 +12,10 @@
 
 <br/>
 <br/>
+
+### Interested in
+- Synthetic data generation
+- Variantional Autoencoder 
  
 ###  :clipboard: Once I've Used 
   
