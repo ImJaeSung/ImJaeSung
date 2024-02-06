@@ -6,7 +6,7 @@
  <br/>
   
 ### Education
-- M.S in Statistical DataScience, University of Seoul `Mar.2024 - `
+- M.S in Statistical DataScience, University of Seoul `Mar.2024 - ` (Optim-Lab :  http://ranking.uos.ac.kr)
 - B.S in Statistics, University of Seoul `Mar.2018 - Feb.2024`
 - B.S in Economics(Bi-major), University of Seoul `Mar.2018 - Feb.2024`
 
@@ -17,10 +17,13 @@
 - Synthetic Data Generation
 - Variational AutoEncoder
 - Competing Risk Model in Survival Analysis
- 
+
+<br/>
+<br/>
+
 ###  :clipboard: Once I've Used 
   
- <br/>
+<br/>
 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
  
