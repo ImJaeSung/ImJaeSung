@@ -6,9 +6,10 @@
  <br/>
   
 ### Education
-- M.S in Statistical DataScience, University of Seoul `Mar.2024 - ` (Optim-Lab :  http://ranking.uos.ac.kr)
+- M.S in Statistical DataScience, University of Seoul `Mar.2024 - `
+- (Optim-Lab : [🌐](http://ranking.uos.ac.kr))
 - B.S in Statistics, University of Seoul `Mar.2018 - Feb.2024`
-- B.S in Economics(Bi-major), University of Seoul `Mar.2018 - Feb.2024`
+- B.S in Economics (Bi-major), University of Seoul `Mar.2018 - Feb.2024`
 
 <br/>
 <br/>
