@@ -16,7 +16,6 @@
 ### Interested in
 - Synthetic Data Generation
 - Variational AutoEncoder
-- Competing Risk Model in Survival Analysis
 
 <br/>
 <br/>
