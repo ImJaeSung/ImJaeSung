@@ -30,9 +30,10 @@
    <br/>
 
 ### 💻 Study log 💻
-<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=holy-jjjae&theme=default)](https://holy-jjjae.tistory.com/)
-
+<div style="display:flex; flex-direction:row;">
+    <a href="https://holy-jjjae.tistory.com/">
+        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
+    </a>
 <br/>
 
 ### 📞 Contact 📞
