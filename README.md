@@ -38,9 +38,8 @@
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
 <br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImJaeSung)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImJaesung&layout=compact)](https://github.com/깃허브아이디/github-readme-stats)
+출처: https://yoon990.tistory.com/38 [개발저장소:티스토리]
 
    <br/>
    
