@@ -35,7 +35,7 @@
     </a>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wotjd1410@gmail.com)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImJaeSung)](https://github.com/anuraghazra/github-readme-stats)
 
    <br/>
    
