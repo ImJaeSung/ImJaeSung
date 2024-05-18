@@ -38,7 +38,7 @@
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
 <br/>
-
+[![Jaesung's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImJaeSung)](https://github.com/anuraghazra/github-readme-stats)
 
 
    <br/>
