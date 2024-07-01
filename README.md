@@ -25,7 +25,7 @@
   
 <br/>
 
-<img src="https://img.shields.io/badge/python-fff68f?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/github-333333?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
+<img src="https://img.shields.io/badge/python-ffd849?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/R-75aadb?style=for-the-badge&logo=R&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-f29111?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/github-333333?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImJaeSung&layout=compact)](https://github.com/깃허브아이디/github-readme-stats)
