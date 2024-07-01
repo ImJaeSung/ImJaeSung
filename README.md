@@ -1,12 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=009f65&height=150&section=header&text=ImJaeSung&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=ccccff&height=150&section=header&text=ImJaeSung&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   
 ####  :wave: Welcome my github !
 
  <br/>
  <br/>
   
-### Education
-- M.S in Statistical DataScience, University of Seoul `Mar.2024 - ` (Optim-Lab : [🌐](http://ranking.uos.ac.kr))
+### ✍🏻 Education ✍🏻
+- M.S in Statistical DataScience, University of Seoul `Mar.2024 - ` (Optim-Lab : [👨🏻‍🏫](http://ranking.uos.ac.kr))
 - B.S in Statistics, University of Seoul `Mar.2018 - Feb.2024`
 - B.S in Economics (Bi-major), University of Seoul `Mar.2018 - Feb.2024`
 
@@ -16,6 +16,7 @@
 ### Interested in
 - Synthetic Data Generation
 - Variational AutoEncoder
+- Missing Data Imputation
 
 <br/>
 <br/>
