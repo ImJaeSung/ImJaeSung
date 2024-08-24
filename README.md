@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=ccccff&height=150&section=header&text=ImJaeSung&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   
 ####  :wave: Welcome my github !
-
  <br/>
  <br/>
   
@@ -17,6 +16,7 @@
 - Synthetic Data Generation
 - Variational AutoEncoder
 - Missing Data Imputation
+- [Google Scholar](https://scholar.google.com/citations?hl=ko&user=JohjFhkAAAAJ)
 
 <br/>
 <br/>
