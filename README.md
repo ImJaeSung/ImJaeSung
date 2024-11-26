@@ -13,9 +13,9 @@
 <br/>
 
 ### Interested in
+- Missing Data Imputation
 - Synthetic Data Generation
 - Variational AutoEncoder
-- Missing Data Imputation
 
 <br/>
 <br/>
