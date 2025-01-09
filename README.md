@@ -13,6 +13,7 @@
 <br/>
 
 ### Interested in
+- Tabular Data Domain
 - Missing Data Imputation
 - Synthetic Data Generation
 - Variational AutoEncoder
