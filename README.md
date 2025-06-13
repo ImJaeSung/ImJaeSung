@@ -5,7 +5,7 @@
  <br/>
   
 ### ✍🏻 Education ✍🏻 ([Papers](https://scholar.google.com/citations?hl=ko&user=JohjFhkAAAAJ))
-- M.S in Statistics and DataScience, University of Seoul `Mar.2024 - ` (Optim-Lab : [👨🏻‍🏫](http://ranking.uos.ac.kr))
+- M.S in Statistics and Data Science, University of Seoul `Mar.2024 - ` (Optim-Lab : [👨🏻‍🏫](http://ranking.uos.ac.kr))
 - B.S in Statistics, University of Seoul `Mar.2018 - Feb.2024`
 - B.S in Economics (Bi-major), University of Seoul `Mar.2018 - Feb.2024`
 
