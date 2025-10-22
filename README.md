@@ -1,11 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=7fffd4&height=150&section=header&text=ImJaeSung&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=E97451&height=150&section=header&text=ImJaeSung&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   
 ###  :wave: Welcome my github !
  <br/>
  <br/>
   
 ### ✍🏻 Education ✍🏻 ([Papers](https://scholar.google.com/citations?hl=ko&user=JohjFhkAAAAJ))
-- M.S in Statistics and Data Science, University of Seoul `Mar.2024 - ` (Optim-Lab : [👨🏻‍🏫](http://ranking.uos.ac.kr))
+- Integrated Ph.D course in Statistics and Data Science, University of Seoul `Mar.2024 - ` (Optim-Lab : [👨🏻‍🏫](http://ranking.uos.ac.kr))
 - B.S in Statistics, University of Seoul `Mar.2018 - Feb.2024`
 - B.S in Economics (Bi-major), University of Seoul `Mar.2018 - Feb.2024`
 
