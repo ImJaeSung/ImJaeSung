@@ -4,14 +4,12 @@
 - Integrated Ph.D course in Statistics and Data Science, University of Seoul `Mar.2024 - ` ([Optim.Lab.](http://ranking.uos.ac.kr))
 - B.S in Statistics, University of Seoul `Mar.2018 - Feb.2024`
 - B.S in Economics (Bi-major), University of Seoul `Mar.2018 - Feb.2024`
-
-<br/>
-
+  
 ## Research Area
 - Tabular & Time-series Learning
 - Missing Data Imputation
 - Synthetic Data Generation
-- Variational AutoEncoder
+- Variational AutoEncoders
   
 ## Contact
 - [wotjd1410@gmail.com](wotjd1410@gmail.com)
